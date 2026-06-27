@@ -1,0 +1,67 @@
+======================================================================
+                  PASSWORD SECURITY ANALYSIS REPORT                   
+======================================================================
+Generated: 2026-01-06 04:48:23
+
+======================================================================
+1. PASSWORD ANALYSIS
+======================================================================
+Password (Masked)    : ********
+Password Length      : 8 characters
+Strength Rating      : Weak
+Entropy              : 37.60 bits
+
+Security Issues Found:
+  1. Missing uppercase letters (A-Z)
+  2. Missing numeric digits (0-9)
+  3. Missing special characters (!@#$%^&*...)
+  4. Contains commonly used pattern: 'password'
+  5. Contains dictionary word: 'password'
+
+======================================================================
+2. ATTACK RESULTS
+======================================================================
+
+Attack #1: Dictionary Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 1
+  Time Taken       : 0.00 seconds
+  Hash Rate        : 8,456 hashes/sec
+
+Attack #2: Brute Force Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 1,345,063
+  Time Taken       : 1.11 seconds
+  Hash Rate        : 1,216,421 hashes/sec
+
+Attack #3: Hybrid Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 42
+  Time Taken       : 0.00 seconds
+  Hash Rate        : 89,467 hashes/sec
+
+======================================================================
+3. SECURITY RECOMMENDATIONS
+======================================================================
+1. URGENT: Change this password immediately - highly vulnerable
+2. Use at least 12 characters with mixed case, numbers, and symbols
+3. Low entropy - add more randomness to your password
+4. Add uppercase letters (A-Z)
+5. Include numeric digits (0-9)
+6. Add special characters (!@#$%^&*)
+7. Avoid common dictionary words
+8. Remove predictable patterns like '123' or 'abc'
+9. CRITICAL: Cracked in <1 second - change immediately!
+10. Use a password manager for complex passwords
+11. Enable two-factor authentication (2FA)
+12. Never reuse passwords across services
+
+======================================================================
+END OF REPORT
+======================================================================

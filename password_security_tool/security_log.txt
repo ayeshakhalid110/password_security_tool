@@ -1,0 +1,118 @@
+[2025-12-28 14:51:53] Password analyzed
+[2025-12-28 14:52:12] Password analyzed
+[2025-12-28 14:52:37] Brute force attack executed
+[2025-12-28 14:52:42] Hybrid attack executed
+[2025-12-28 14:53:06] Hybrid attack executed
+[2025-12-28 14:53:06] Hybrid attack executed
+[2025-12-28 14:53:54] Password analyzed
+[2025-12-28 14:54:17] Password analyzed
+[2025-12-28 14:54:41] Password analyzed
+[2025-12-28 14:54:55] Password analyzed
+[2025-12-28 14:55:31] Hybrid attack executed
+[2025-12-28 14:55:34] Brute force attack executed
+[2025-12-28 14:56:23] Brute force attack executed
+[2025-12-28 14:56:38] Brute force attack executed
+[2025-12-28 15:08:36] Password analyzed
+[2025-12-28 22:37:30] Password analyzed
+[2025-12-28 22:37:40] Brute force attack executed
+[2025-12-28 22:37:41] Brute force attack executed
+[2025-12-28 22:37:43] Hybrid attack executed
+[2025-12-28 22:37:54] Password analyzed
+[2025-12-28 22:39:29] Password analyzed
+[2025-12-28 22:39:46] Password analyzed
+[2025-12-28 22:39:54] Brute force attack executed
+[2025-12-28 22:39:54] Hybrid attack executed
+[2025-12-28 22:39:56] Password analyzed
+[2025-12-28 22:40:32] Brute force attack executed
+[2025-12-28 22:40:39] Brute force attack executed
+[2025-12-28 22:40:56] Brute force attack executed
+[2025-12-28 22:41:08] Brute force attack executed
+[2025-12-28 22:41:09] Brute force attack executed
+[2025-12-28 22:41:36] Hybrid attack executed
+[2025-12-29 07:22:55] Password analyzed
+[2025-12-29 07:23:03] Password analyzed
+[2025-12-29 07:23:20] Brute force attack executed
+[2025-12-29 07:23:25] Hybrid attack executed
+[2025-12-29 07:23:37] Hybrid attack executed
+[2025-12-29 07:23:46] Brute force attack executed
+[2025-12-29 14:55:31] Password analyzed
+[2025-12-29 14:56:04] Brute force attack executed
+[2025-12-29 14:56:05] Hybrid attack executed
+[2025-12-29 14:56:12] Password analyzed
+[2025-12-29 14:56:32] Hybrid attack executed
+[2025-12-29 14:59:32] Brute force attack executed
+[2025-12-29 15:01:42] Hybrid attack executed
+[2026-01-03 08:38:02] [INFO] Password analyzed
+[2026-01-03 08:38:37] [ATTACK] Dictionary attack failed
+[2026-01-03 08:39:17] [ATTACK] Dictionary attack failed
+[2026-01-03 08:39:23] [ATTACK] Dictionary attack successful
+[2026-01-03 08:39:30] [ATTACK] Dictionary attack successful
+[2026-01-03 08:39:33] [INFO] Password analyzed
+[2026-01-03 08:48:20] [INFO] Password analyzed
+[2026-01-03 08:52:11] [INFO] Password analyzed
+[2026-01-03 08:52:16] [ATTACK] Dictionary attack successful
+[2026-01-05 01:10:37] [INFO] Password analyzed
+[2026-01-05 01:10:49] [INFO] Password analyzed
+[2026-01-05 01:10:54] [ATTACK] Dictionary attack successful
+[2026-01-05 01:11:02] [ATTACK] Dictionary attack failed
+[2026-01-05 01:11:06] [ATTACK] Brute force executed
+[2026-01-05 01:11:20] [ATTACK] Hybrid attack executed
+[2026-01-05 01:11:33] [ATTACK] Hybrid attack executed
+[2026-01-05 01:11:35] [ATTACK] Hybrid attack executed
+[2026-01-05 01:11:39] [ATTACK] Hashcat attack executed
+[2026-01-05 01:11:41] [ATTACK] Hybrid attack executed
+[2026-01-05 01:11:41] [ATTACK] Dictionary attack failed
+[2026-01-05 01:11:48] [ATTACK] Hybrid attack executed
+[2026-01-05 01:11:50] [ATTACK] Hybrid attack executed
+[2026-01-05 01:46:38] [INFO] Password analyzed
+[2026-01-05 01:55:08] [INFO] Dictionary attack performed
+[2026-01-05 01:57:00] [INFO] Brute force attack performed
+[2026-01-05 01:57:15] [INFO] Hybrid attack performed
+[2026-01-05 01:57:52] [INFO] Hashcat attack performed
+[2026-01-05 01:59:58] [INFO] Hashcat attack performed
+[2026-01-05 02:00:04] [INFO] Password analyzed
+[2026-01-05 02:00:06] [INFO] Hashcat attack performed
+[2026-01-05 02:02:29] [INFO] Password analyzed
+[2026-01-05 02:02:34] [INFO] Dictionary attack performed
+[2026-01-05 02:03:05] [INFO] Hashcat attack performed
+[2026-01-05 02:03:39] [INFO] Hashcat attack performed
+[2026-01-05 02:09:33] [INFO] Hybrid attack performed
+[2026-01-05 02:09:37] [INFO] Hashcat attack performed
+[2026-01-05 02:09:56] [INFO] Hashcat attack performed
+[2026-01-05 02:10:02] [INFO] Hashcat attack performed
+[2026-01-05 02:24:02] [INFO] Hashcat attack performed
+[2026-01-05 02:33:07] [INFO] Dictionary attack performed
+[2026-01-05 02:33:22] [INFO] Dictionary attack performed
+[2026-01-05 02:35:45] [INFO] Hashcat attack performed
+[2026-01-05 02:40:55] [INFO] Hashcat attack performed
+[2026-01-05 02:41:58] [INFO] Hybrid attack performed
+[2026-01-05 02:44:58] [INFO] Hybrid attack performed
+[2026-01-05 03:05:26] [INFO] Hybrid attack performed
+[2026-01-05 03:05:31] [INFO] Hashcat attack performed
+[2026-01-05 03:06:59] [INFO] Hashcat attack performed
+[2026-01-05 03:08:03] [INFO] Hashcat attack performed
+[2026-01-05 07:32:28] [INFO] Password analyzed
+[2026-01-05 07:32:31] [INFO] Dictionary attack performed
+[2026-01-05 07:32:41] [INFO] Brute force attack performed
+[2026-01-05 07:32:58] [INFO] Hybrid attack performed
+[2026-01-05 07:33:10] [INFO] Hashcat attack performed
+[2026-01-05 07:33:10] [INFO] Hashcat attack performed
+[2026-01-05 07:33:11] [INFO] Hashcat attack performed
+[2026-01-05 07:34:09] [INFO] Hashcat attack performed
+[2026-01-05 07:37:30] [INFO] Password analyzed
+[2026-01-05 07:37:52] [INFO] Password analyzed
+[2026-01-05 07:38:14] [INFO] Hashcat attack performed
+[2026-01-05 07:39:11] [INFO] Hashcat attack performed
+[2026-01-05 07:40:09] [INFO] Hashcat attack performed
+[2026-01-05 07:41:12] [INFO] Dictionary attack performed
+[2026-01-05 07:43:44] [INFO] Hybrid attack performed
+[2026-01-05 07:43:51] [INFO] Dictionary attack performed
+[2026-01-05 07:43:55] [INFO] Password analyzed
+[2026-01-05 07:44:07] [INFO] Hybrid attack performed
+[2026-01-05 07:46:28] [INFO] Dictionary attack performed
+[2026-01-05 07:46:28] [INFO] Dictionary attack performed
+[2026-01-05 07:46:46] [INFO] Brute force attack performed
+[2026-01-05 07:49:52] [INFO] Brute force attack performed
+[2026-01-05 08:34:26] [INFO] Hashcat attack performed
+[2026-01-05 08:54:09] [INFO] Hybrid attack performed
+[2026-01-05 08:54:42] [INFO] Hybrid attack performed

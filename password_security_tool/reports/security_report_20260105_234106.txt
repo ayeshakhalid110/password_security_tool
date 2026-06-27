@@ -1,0 +1,81 @@
+======================================================================
+                  PASSWORD SECURITY ANALYSIS REPORT                   
+======================================================================
+Generated: 2026-01-05 23:41:06
+
+======================================================================
+1. PASSWORD ANALYSIS
+======================================================================
+Password (Masked)    : ****
+Password Length      : 4 characters
+Strength Rating      : Very Weak
+Entropy              : 18.80 bits
+
+Security Issues Found:
+  1. Password is critically short (minimum 8 characters recommended)
+  2. Missing uppercase letters (A-Z)
+  3. Missing numeric digits (0-9)
+  4. Missing special characters (!@#$%^&*...)
+
+======================================================================
+2. ATTACK RESULTS
+======================================================================
+
+Attack #1: Dictionary Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 1
+  Time Taken       : 0.00 seconds
+  Hash Rate        : 9,664 hashes/sec
+
+Attack #2: Brute Force Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 48,422,300
+  Time Taken       : 29.43 seconds
+  Hash Rate        : 1,645,082 hashes/sec
+
+Attack #3: Hybrid Attack
+----------------------------------------------------------------------
+  Status           : FAILED
+  Algorithm        : md5
+  Attempts         : 3,000
+  Time Taken       : 0.00 seconds
+  Hash Rate        : 1,483,834 hashes/sec
+
+Attack #4: Hybrid Attack
+----------------------------------------------------------------------
+  Status           : SUCCESS
+  Algorithm        : md5
+  Attempts         : 52
+  Time Taken       : 0.00 seconds
+  Hash Rate        : 279,979 hashes/sec
+
+Attack #5: Hashcat Mask Attack
+----------------------------------------------------------------------
+  Status           : FAILED
+  Algorithm        : md5
+  Attempts         : 0
+  Time Taken       : 3.02 seconds
+  Hash Rate        : 0 hashes/sec
+
+======================================================================
+3. SECURITY RECOMMENDATIONS
+======================================================================
+1. URGENT: Change this password immediately - highly vulnerable
+2. Use at least 12 characters with mixed case, numbers, and symbols
+3. Low entropy - add more randomness to your password
+4. Increase password length to at least 12 characters
+5. Add uppercase letters (A-Z)
+6. Include numeric digits (0-9)
+7. Add special characters (!@#$%^&*)
+8. CRITICAL: Cracked in <1 second - change immediately!
+9. Use a password manager for complex passwords
+10. Enable two-factor authentication (2FA)
+11. Never reuse passwords across services
+
+======================================================================
+END OF REPORT
+======================================================================
